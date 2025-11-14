@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.my-custom-robotocondensed-text {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+h2 {
+  font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+}
